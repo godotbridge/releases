@@ -52,7 +52,7 @@ Go to [Releases](https://github.com/godotbridge/releases/releases) and download 
 ## Licensing
 
 - **Lite (free)**: 67 tools across 12 categories — no license needed
-- **Full ($29)**: All 345 tools across 36 categories — one-time purchase at [godotbridge.dev](https://godotbridge.dev)
+- **Full ($29)**: All 345 tools across 36 categories — one-time purchase at [godotbridge.com](https://godotbridge.com)
 
 Activate your license:
 ```bash
@@ -65,6 +65,6 @@ set GODOT_MCP_LICENSE_KEY=YOUR-KEY-HERE
 
 ## Links
 
-- [Website](https://godotbridge.dev)
+- [Website](https://godotbridge.com)
 - [Godot Addon](https://github.com/godotbridge/addon)
 - [Report Issues](https://github.com/godotbridge/releases/issues)
